@@ -154,7 +154,7 @@ img {
 /* responsive */
 
 @media (max-width:768px){
-    .logo{
+     .logo{
     max-width: 150px;
     height: 37px;
    }
